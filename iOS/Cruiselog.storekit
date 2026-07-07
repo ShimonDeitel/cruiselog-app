@@ -1,0 +1,29 @@
+{
+  "identifier": "cruiselog",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "5.99",
+      "familyShareable": false,
+      "internalID": "cruiselog_pro",
+      "localizations": [
+        {
+          "description": "Unlimited cruises, onboard spend tracking, and port notes with photos.",
+          "displayName": "Cruiselog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "cruiselog_pro",
+      "referenceName": "Cruiselog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
